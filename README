@@ -1,0 +1,20 @@
+------Iniciar projeto com pasta env-------
+
+python -m venv env 
+
+------Usar uma biblioteca mais completa do flask -------
+#restx
+pip install flask flask-restx 
+
+# Precisamos ativar o enviroment
+cd env
+script/activate
+cd..
+
+# Criei um arquivo na pasta raiz requirements.txt contendo todas as dependencias para baixar
+no terminal pip install -r requirements.txt
+
+
+#Criar app python
+new file > app.py
+
