@@ -8,7 +8,7 @@ pip install flask flask-restx
 
 # Precisamos ativar o enviroment
 cd env
-script/activate
+script/activate  ou .\Script\Activate
 cd..
 
 # Criei um arquivo na pasta raiz requirements.txt contendo todas as dependencias para baixar
